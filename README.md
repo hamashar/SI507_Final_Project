@@ -1,5 +1,9 @@
 # SI507_Final_Project
 
+### Required Python Packages
+* requests
+* pandas
+
 ### Project Description
 This is a command line program. You will need access to the movies_metadata.csv . In order to run the code, run it in the command linr or VScode. 
 You will first be prompted with entering a book title. From then on you will be asked a series of questions to get information about that book. 
